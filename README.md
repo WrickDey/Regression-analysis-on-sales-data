@@ -1,0 +1,2 @@
+# Regression-analysis-on-sales-data
+Considering a Meddicorp Company and its sales data in three regions of the United States: The South, the West, and the Midwest, which are further divided into territories overseen by regional sales managers, for the year 2003. The problem is to detect whether there is a linear relationship between its sales in each of the territories and the bonuses paid to the salespeople working in those territories by the company.
